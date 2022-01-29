@@ -1,0 +1,2 @@
+echo("RUN EXAMPLE FROM SHELL")
+
